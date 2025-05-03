@@ -23,3 +23,10 @@ There are a maximum of 256 devices. Any more and the program will forcefully clo
 - Light purple dots are Config BPDUs
 - Tan dots are TCNs (topology change notification)
 - Purple ports are root ports.
+
+## dependencies and building
+
+`stpvis` depends on `raylib`, which can be downloaded [here](https://github.com/raysan5/raylib/releases/tag/5.5).
+If building raylib from source, the source tree just needs to be in a directory called raylib (and compiled, of course).
+
+If using the pre-built library... I dunno. It's probably not too complicated.
