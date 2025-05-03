@@ -5,6 +5,11 @@
 #include "8021d-stp.h"
 #include "device.h"
 
+/* The following code was adopted, almost 1-1, from the 
+ * example code in the original 1994 802.1d IEEE document.
+ * This is also true for the header file.
+ */
+
 /***************************************************************************
 *  CODE                   
 **************************************************************************/
