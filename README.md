@@ -4,6 +4,8 @@ A simple program, created for a group project.
 
 Provides a simple visualization of Spanning Tree Protocol.
 
+![screenshot](https://github.com/user-attachments/assets/45f6a2b6-1152-4b2d-83d2-e881c0a26e8f)
+
 ## controls
 To add a switch, endpoint, or connection, left click.
 To switch between placing switches or endpoints, use keys 1 and 2, respectively.
